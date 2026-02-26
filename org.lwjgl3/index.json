@@ -10,6 +10,32 @@
                 }
             ],
             "recommended": false,
+            "releaseTime": "2026-02-17T12:42:24+00:00",
+            "sha256": "f93268cf2c3524e5cb12ea13f1037a925d80a70e576b7619051df1e3d157398e",
+            "type": "release",
+            "version": "3.4.1",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2025-10-21T11:38:51+00:00",
+            "sha256": "bfc5e9d425ef1596a9b3b2212740f23f9815fe358836096b4fdcbfbdde34c4c9",
+            "type": "release",
+            "version": "3.3.6",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl"
+                }
+            ],
+            "recommended": false,
             "releaseTime": "2025-02-19T13:41:43+00:00",
             "sha256": "53d4b4f47f04bac6bc1da9c25033218e631055a8289be028b3557f2a63e1f1dc",
             "type": "release",
