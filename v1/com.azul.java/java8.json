@@ -5,110 +5,110 @@
     "runtimes": [
         {
             "checksum": {
-                "hash": "cab8c10804d4c96eec084678b1cf1abe013abb1443a4cc061dab56c6f98411e2",
+                "hash": "109e548275a5d461653b7c6441c2f4a0ed7e8994e7a01c098bd8722f0d57b788",
                 "type": "sha256"
             },
             "downloadType": "archive",
-            "name": "azul_zulu_jre8.0.442",
+            "name": "azul_zulu_jre8.0.482",
             "packageType": "jre",
-            "releaseTime": "2025-01-07T14:31:23+00:00",
-            "runtimeOS": "mac-os-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.84.0.15-ca-jre8.0.442-macosx_x64.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 8,
-                "minor": 0,
-                "security": 442
-            }
-        },
-        {
-            "checksum": {
-                "hash": "1407f67b489316756a965c160e7f0ab9322a8af0e457143a99318c2c10fc2cdb",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jre8.0.442",
-            "packageType": "jre",
-            "releaseTime": "2025-01-07T14:31:23+00:00",
-            "runtimeOS": "mac-os-arm64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.84.0.15-ca-jre8.0.442-macosx_aarch64.zip",
-            "vendor": "azul",
-            "version": {
-                "major": 8,
-                "minor": 0,
-                "security": 442
-            }
-        },
-        {
-            "checksum": {
-                "hash": "6b4c09bb75ce8e5bcc2c0cd228cc1ee885938aa9d9a2d0fe9a515399f076165e",
-                "type": "sha256"
-            },
-            "downloadType": "archive",
-            "name": "azul_zulu_jre8.0.442",
-            "packageType": "jre",
-            "releaseTime": "2025-01-07T14:31:23+00:00",
+            "releaseTime": "2026-01-23T19:47:14+00:00",
             "runtimeOS": "linux-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.84.0.15-ca-jre8.0.442-linux_x64.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-linux_x64.zip",
             "vendor": "azul",
             "version": {
                 "major": 8,
                 "minor": 0,
-                "security": 442
+                "security": 482
             }
         },
         {
             "checksum": {
-                "hash": "ba1eaa0d456f908f9e61257cf25331981bdf518cebacc0829cce6a072271f463",
+                "hash": "1a0f150e67fe37e27a1a6425dffb7a682909be281ff4d062964216cb5af1f5cb",
                 "type": "sha256"
             },
             "downloadType": "archive",
-            "name": "azul_zulu_jre8.0.442",
+            "name": "azul_zulu_jre8.0.482",
             "packageType": "jre",
-            "releaseTime": "2025-01-07T14:31:23+00:00",
+            "releaseTime": "2026-01-23T19:47:14+00:00",
             "runtimeOS": "linux-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.84.0.15-ca-jre8.0.442-linux_i686.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-linux_i686.zip",
             "vendor": "azul",
             "version": {
                 "major": 8,
                 "minor": 0,
-                "security": 442
+                "security": 482
             }
         },
         {
             "checksum": {
-                "hash": "462de0ed6c49c72b02309b3bcf5223663694929ba3fbe0d000702c849194df68",
+                "hash": "a0bfe8129786861aac8d46fb25f583fde9aeedca3a07f037eed59a4d259c1dd7",
                 "type": "sha256"
             },
             "downloadType": "archive",
-            "name": "azul_zulu_jre8.0.442",
+            "name": "azul_zulu_jre8.0.482",
             "packageType": "jre",
-            "releaseTime": "2025-01-07T14:31:23+00:00",
+            "releaseTime": "2026-01-23T19:47:14+00:00",
+            "runtimeOS": "mac-os-x64",
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-macosx_x64.zip",
+            "vendor": "azul",
+            "version": {
+                "major": 8,
+                "minor": 0,
+                "security": 482
+            }
+        },
+        {
+            "checksum": {
+                "hash": "f4a9e0876474ff6b4a841be3371f7a19189557b4b954afd92cf8a0a035cba633",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "azul_zulu_jre8.0.482",
+            "packageType": "jre",
+            "releaseTime": "2026-01-23T19:47:14+00:00",
+            "runtimeOS": "mac-os-arm64",
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-macosx_aarch64.zip",
+            "vendor": "azul",
+            "version": {
+                "major": 8,
+                "minor": 0,
+                "security": 482
+            }
+        },
+        {
+            "checksum": {
+                "hash": "34466ae306049bf33b8cdc2e157f4a26ee4746a0cc804e9eb636251d53c2793e",
+                "type": "sha256"
+            },
+            "downloadType": "archive",
+            "name": "azul_zulu_jre8.0.482",
+            "packageType": "jre",
+            "releaseTime": "2026-01-23T19:47:14+00:00",
             "runtimeOS": "windows-x64",
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.84.0.15-ca-jre8.0.442-win_x64.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-win_x64.zip",
             "vendor": "azul",
             "version": {
                 "major": 8,
                 "minor": 0,
-                "security": 442
+                "security": 482
             }
         },
         {
             "checksum": {
-                "hash": "984aac9a1a09bcbd75c194e21e1855d9513de8bf5ad89f3d04b17297becb7f88",
+                "hash": "4ec67c300c4c1924a57e0ccd6dbf118ef6c64d16ab6f871cab256cd465aaae22",
                 "type": "sha256"
             },
             "downloadType": "archive",
-            "name": "azul_zulu_jre8.0.442",
+            "name": "azul_zulu_jre8.0.482",
             "packageType": "jre",
-            "releaseTime": "2025-01-07T14:31:23+00:00",
+            "releaseTime": "2026-01-23T19:47:14+00:00",
             "runtimeOS": "windows-x86",
-            "url": "https://cdn.azul.com/zulu/bin/zulu8.84.0.15-ca-jre8.0.442-win_i686.zip",
+            "url": "https://cdn.azul.com/zulu/bin/zulu8.92.0.21-ca-jre8.0.482-win_i686.zip",
             "vendor": "azul",
             "version": {
                 "major": 8,
                 "minor": 0,
-                "security": 442
+                "security": 482
             }
         },
         {
