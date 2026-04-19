@@ -5,6 +5,66 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2026-04-18T22:39:27.742982+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.1",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "edd10a195fc07c2be0b37f28055bfeb4bace3b8e6fe29fb039bba1a5c3117062",
+            "version": "21.1.227"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-18T20:16:18.718287+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "7ffd12f32749fb7c1067734bc60215b9ddb629503537a4e6506f9e596bb1c35e",
+            "version": "26.1.2.17-beta"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-18T18:29:38.041649+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "ff4128d89abf256e3c3f4bc202c274df94656d5406fb0b36281812fad83564f9",
+            "version": "26.1.2.16-beta"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-18T11:14:51.921051+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "e090c01741ab721307084c3f3cb38cbc288107bf7beac8eb493acdffe5b8193b",
+            "version": "26.1.2.15-beta"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2026-04-18T11:14:28.323360+00:00",
+            "requires": [
+                {
+                    "equals": "26.1.2",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "d38d9473ec3a81f81850ba45324e864e4a1f8fcf73a626fda482c0260d98480b",
+            "version": "26.1.2.14-beta"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2026-04-17T16:19:52.233669+00:00",
             "requires": [
                 {
