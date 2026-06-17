@@ -3,7 +3,7 @@
     "packages": [
         {
             "name": "Java Runtimes",
-            "sha256": "bfc5579fb442e4a4599c0995c6e082c5d47331ab00298c19fac8e5b996ee18fa",
+            "sha256": "94edb1409c5f05c0a116dddef7a29beb405531d3960151b10ad6948bb2fdfce2",
             "uid": "com.azul.java"
         },
         {
@@ -28,12 +28,12 @@
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "25c7d8f32ec926d95fbbbae529fde339ae040e1dd590cb2c0c27469aacaf664f",
+            "sha256": "5abb5b4006e490fec00776d292e862a11ffd65d81894a96705e525641c887256",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "d80d88b86d7e3a5ac0cf60764ed46a44cdd08b9be956d48d1746d9ef3487f029",
+            "sha256": "030f21370f0efdc18e5b7548c0be07118f1c8f2b1d82d1020078918c1bd6ec9a",
             "uid": "net.minecraft"
         },
         {
@@ -48,7 +48,7 @@
         },
         {
             "name": "NeoForge",
-            "sha256": "d91cc11a164671a1b8e545879bc911c6d9cf993e6d01e4bf7fb67ecdcf76d85e",
+            "sha256": "a9143f453dab5c9b89e2515d92d8ae7c3efc78d829ac9942b147bb0884c859db",
             "uid": "net.neoforged"
         },
         {
